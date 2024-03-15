@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Stuff.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and JavaScript
 - 👯 I’m looking to collaborate on Nothing rn.
 - 🤔 I’m looking for help with Nothing rn.
-- 💬 Ask me about C#.
+<!--- 💬 Ask me about C#.-->
 - 📫 How to reach me: Discord username: Tiger15cub.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Im stuped sometimes.
+- ⚡ Fun fact: I like cats.
 
 <!--
 **katopiler/katopiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
