@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning C# and JavaScript
 - 👯 I’m looking to collaborate on Nothing rn.
 - 🤔 I’m looking for help with Nothing rn.
-<!--- 💬 Ask me about C#.-->
 - 📫 How to reach me: Discord username: Tiger15cub.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like cats.
